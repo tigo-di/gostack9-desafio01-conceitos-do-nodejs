@@ -1,0 +1,19 @@
+{
+  "name": "modulo01-desafio01-conceitos-do-nodejs",
+  "version": "1.0.0",
+  "description": "aplicação para criar projetos e as suas tarefas do zero utilizando Express",
+  "main": "index.js",
+  "repository": "git@github.com:tigo-di/gostack9-desafio01-conceitos-do-nodejs.git",
+  "author": "Tiago Dias <tigo@webdeleve.net>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.4"
+  }
+
+}
